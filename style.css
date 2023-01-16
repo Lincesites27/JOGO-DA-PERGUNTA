@@ -50,8 +50,7 @@ body{
     color: #fff;
     position: absolute;
     left: 20%;
-    top:50%;
-    transform: translate(100%, 50%);
+    top:56%;
     font-size: 42px;
     padding: 12px 24px;
     cursor: pointer;
